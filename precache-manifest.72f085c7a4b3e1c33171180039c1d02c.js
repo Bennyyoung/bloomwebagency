@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8db7c6247a3595092e7ced66f5d01c55",
+    "revision": "5aaf9952ab5aee1c70af2e2f197329d3",
     "url": "/bloomwebagency/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bloomwebagency/static/css/2.5bc09813.chunk.css"
   },
   {
-    "revision": "51f4215a3ae9b5cf3cb5",
-    "url": "/bloomwebagency/static/css/main.1ea065f3.chunk.css"
+    "revision": "51a797a92841d4893d6e",
+    "url": "/bloomwebagency/static/css/main.6f666156.chunk.css"
   },
   {
     "revision": "a88c397f55c1ca3ee32d",
     "url": "/bloomwebagency/static/js/2.fef60eee.chunk.js"
   },
   {
-    "revision": "51f4215a3ae9b5cf3cb5",
+    "revision": "51a797a92841d4893d6e",
     "url": "/bloomwebagency/static/js/main.9ab42918.chunk.js"
   },
   {

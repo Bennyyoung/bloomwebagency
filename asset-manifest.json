@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bloomwebagency/static/css/main.1ea065f3.chunk.css",
+    "main.css": "/bloomwebagency/static/css/main.6f666156.chunk.css",
     "main.js": "/bloomwebagency/static/js/main.9ab42918.chunk.js",
     "main.js.map": "/bloomwebagency/static/js/main.9ab42918.chunk.js.map",
     "runtime-main.js": "/bloomwebagency/static/js/runtime-main.82cd9086.js",
@@ -9,10 +9,10 @@
     "static/js/2.fef60eee.chunk.js": "/bloomwebagency/static/js/2.fef60eee.chunk.js",
     "static/js/2.fef60eee.chunk.js.map": "/bloomwebagency/static/js/2.fef60eee.chunk.js.map",
     "index.html": "/bloomwebagency/index.html",
-    "precache-manifest.dc1ce274e21e60ac44ed52b235a92ed1.js": "/bloomwebagency/precache-manifest.dc1ce274e21e60ac44ed52b235a92ed1.js",
+    "precache-manifest.72f085c7a4b3e1c33171180039c1d02c.js": "/bloomwebagency/precache-manifest.72f085c7a4b3e1c33171180039c1d02c.js",
     "service-worker.js": "/bloomwebagency/service-worker.js",
     "static/css/2.5bc09813.chunk.css.map": "/bloomwebagency/static/css/2.5bc09813.chunk.css.map",
-    "static/css/main.1ea065f3.chunk.css.map": "/bloomwebagency/static/css/main.1ea065f3.chunk.css.map",
+    "static/css/main.6f666156.chunk.css.map": "/bloomwebagency/static/css/main.6f666156.chunk.css.map",
     "static/media/BWA_logo.jpg": "/bloomwebagency/static/media/BWA_logo.84fb3e70.jpg",
     "static/media/portitem1.jpeg": "/bloomwebagency/static/media/portitem1.2fd02ba6.jpeg",
     "static/media/portitem2.jpeg": "/bloomwebagency/static/media/portitem2.4aa59e64.jpeg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.82cd9086.js",
     "static/css/2.5bc09813.chunk.css",
     "static/js/2.fef60eee.chunk.js",
-    "static/css/main.1ea065f3.chunk.css",
+    "static/css/main.6f666156.chunk.css",
     "static/js/main.9ab42918.chunk.js"
   ]
 }
