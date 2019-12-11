@@ -1,0 +1,44 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "animate.css": "^3.7.2",
+    "aos": "^2.3.4",
+    "babel-loader": "^8.0.6",
+    "bootstrap": "^4.3.1",
+    "css-loader": "^3.2.0",
+    "gh-pages": "^2.1.1",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "react": "^16.11.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-dom": "^16.11.0",
+    "react-scripts": "^3.2.0",
+    "react-text-loop": "^2.2.1",
+    "reactstrap": "^8.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "jasmine-node": "^3.0.0",
+    "mongoose": "^5.7.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
