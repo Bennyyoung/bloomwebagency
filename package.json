@@ -1,8 +1,9 @@
 {
-  "name": "node-todo",
+  "name": "blomwebagency",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://Bennyyoung.github.io/bloomwebagency",
   "dependencies": {
     "@babel/core": "^7.6.4",
     "animate.css": "^3.7.2",
@@ -24,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
