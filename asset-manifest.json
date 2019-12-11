@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bloomwebagency/static/css/main.1ea065f3.chunk.css",
+    "main.js": "/bloomwebagency/static/js/main.9ab42918.chunk.js",
+    "main.js.map": "/bloomwebagency/static/js/main.9ab42918.chunk.js.map",
+    "runtime-main.js": "/bloomwebagency/static/js/runtime-main.82cd9086.js",
+    "runtime-main.js.map": "/bloomwebagency/static/js/runtime-main.82cd9086.js.map",
+    "static/css/2.5bc09813.chunk.css": "/bloomwebagency/static/css/2.5bc09813.chunk.css",
+    "static/js/2.fef60eee.chunk.js": "/bloomwebagency/static/js/2.fef60eee.chunk.js",
+    "static/js/2.fef60eee.chunk.js.map": "/bloomwebagency/static/js/2.fef60eee.chunk.js.map",
+    "index.html": "/bloomwebagency/index.html",
+    "precache-manifest.763e7ccb3c52fa181cf5f4b5011465a4.js": "/bloomwebagency/precache-manifest.763e7ccb3c52fa181cf5f4b5011465a4.js",
+    "service-worker.js": "/bloomwebagency/service-worker.js",
+    "static/css/2.5bc09813.chunk.css.map": "/bloomwebagency/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.1ea065f3.chunk.css.map": "/bloomwebagency/static/css/main.1ea065f3.chunk.css.map",
+    "static/media/BWA_logo.jpg": "/bloomwebagency/static/media/BWA_logo.84fb3e70.jpg",
+    "static/media/portitem1.jpeg": "/bloomwebagency/static/media/portitem1.2fd02ba6.jpeg",
+    "static/media/portitem2.jpeg": "/bloomwebagency/static/media/portitem2.4aa59e64.jpeg",
+    "static/media/portitem3.jpeg": "/bloomwebagency/static/media/portitem3.1f639e1e.jpeg",
+    "static/media/profile.jpeg": "/bloomwebagency/static/media/profile.f89a13d6.jpeg",
+    "static/media/App.css": "/bloomwebagency/static/media/sitebg.0852ab00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82cd9086.js",
+    "static/css/2.5bc09813.chunk.css",
+    "static/js/2.fef60eee.chunk.js",
+    "static/css/main.1ea065f3.chunk.css",
+    "static/js/main.9ab42918.chunk.js"
+  ]
+}
